@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mujymix/static/css/main.a0b9572d.chunk.css",
-    "main.js": "/mujymix/static/js/main.2738bc6c.chunk.js",
-    "main.js.map": "/mujymix/static/js/main.2738bc6c.chunk.js.map",
-    "runtime-main.js": "/mujymix/static/js/runtime-main.d0bb7a12.js",
-    "runtime-main.js.map": "/mujymix/static/js/runtime-main.d0bb7a12.js.map",
-    "static/js/2.7b3b4525.chunk.js": "/mujymix/static/js/2.7b3b4525.chunk.js",
-    "static/js/2.7b3b4525.chunk.js.map": "/mujymix/static/js/2.7b3b4525.chunk.js.map",
-    "static/js/3.fdd38835.chunk.js": "/mujymix/static/js/3.fdd38835.chunk.js",
-    "static/js/3.fdd38835.chunk.js.map": "/mujymix/static/js/3.fdd38835.chunk.js.map",
+    "main.css": "/mujymix/static/css/main.2089ee12.chunk.css",
+    "main.js": "/mujymix/static/js/main.392b0f5e.chunk.js",
+    "main.js.map": "/mujymix/static/js/main.392b0f5e.chunk.js.map",
+    "runtime-main.js": "/mujymix/static/js/runtime-main.032d03ed.js",
+    "runtime-main.js.map": "/mujymix/static/js/runtime-main.032d03ed.js.map",
+    "static/js/2.3594d11f.chunk.js": "/mujymix/static/js/2.3594d11f.chunk.js",
+    "static/js/2.3594d11f.chunk.js.map": "/mujymix/static/js/2.3594d11f.chunk.js.map",
+    "static/js/3.fefd1c4e.chunk.js": "/mujymix/static/js/3.fefd1c4e.chunk.js",
+    "static/js/3.fefd1c4e.chunk.js.map": "/mujymix/static/js/3.fefd1c4e.chunk.js.map",
     "index.html": "/mujymix/index.html",
-    "static/css/main.a0b9572d.chunk.css.map": "/mujymix/static/css/main.a0b9572d.chunk.css.map",
-    "static/js/2.7b3b4525.chunk.js.LICENSE.txt": "/mujymix/static/js/2.7b3b4525.chunk.js.LICENSE.txt",
+    "static/css/main.2089ee12.chunk.css.map": "/mujymix/static/css/main.2089ee12.chunk.css.map",
+    "static/js/2.3594d11f.chunk.js.LICENSE.txt": "/mujymix/static/js/2.3594d11f.chunk.js.LICENSE.txt",
     "static/media/cover.95e63451.png": "/mujymix/static/media/cover.95e63451.png",
     "static/media/logohorizantal.c9a774ed.jpg": "/mujymix/static/media/logohorizantal.c9a774ed.jpg",
     "static/media/logovertical.0515c534.jpg": "/mujymix/static/media/logovertical.0515c534.jpg",
     "static/media/url.7318a804.png": "/mujymix/static/media/url.7318a804.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0bb7a12.js",
-    "static/js/2.7b3b4525.chunk.js",
-    "static/css/main.a0b9572d.chunk.css",
-    "static/js/main.2738bc6c.chunk.js"
+    "static/js/runtime-main.032d03ed.js",
+    "static/js/2.3594d11f.chunk.js",
+    "static/css/main.2089ee12.chunk.css",
+    "static/js/main.392b0f5e.chunk.js"
   ]
 }
