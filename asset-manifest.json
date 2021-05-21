@@ -1,26 +1,31 @@
 {
   "files": {
     "main.css": "/mujymix/static/css/main.2089ee12.chunk.css",
-    "main.js": "/mujymix/static/js/main.06b67d39.chunk.js",
-    "main.js.map": "/mujymix/static/js/main.06b67d39.chunk.js.map",
-    "runtime-main.js": "/mujymix/static/js/runtime-main.e97ea85d.js",
-    "runtime-main.js.map": "/mujymix/static/js/runtime-main.e97ea85d.js.map",
-    "static/js/2.2d56be8d.chunk.js": "/mujymix/static/js/2.2d56be8d.chunk.js",
-    "static/js/2.2d56be8d.chunk.js.map": "/mujymix/static/js/2.2d56be8d.chunk.js.map",
-    "static/js/3.7b4716d9.chunk.js": "/mujymix/static/js/3.7b4716d9.chunk.js",
-    "static/js/3.7b4716d9.chunk.js.map": "/mujymix/static/js/3.7b4716d9.chunk.js.map",
+    "main.js": "/mujymix/static/js/main.406ec6b4.chunk.js",
+    "main.js.map": "/mujymix/static/js/main.406ec6b4.chunk.js.map",
+    "runtime-main.js": "/mujymix/static/js/runtime-main.aaf7c6cc.js",
+    "runtime-main.js.map": "/mujymix/static/js/runtime-main.aaf7c6cc.js.map",
+    "static/css/2.0ba14847.chunk.css": "/mujymix/static/css/2.0ba14847.chunk.css",
+    "static/js/2.0d2424bc.chunk.js": "/mujymix/static/js/2.0d2424bc.chunk.js",
+    "static/js/2.0d2424bc.chunk.js.map": "/mujymix/static/js/2.0d2424bc.chunk.js.map",
+    "static/js/3.12dd6cb8.chunk.js": "/mujymix/static/js/3.12dd6cb8.chunk.js",
+    "static/js/3.12dd6cb8.chunk.js.map": "/mujymix/static/js/3.12dd6cb8.chunk.js.map",
     "index.html": "/mujymix/index.html",
+    "static/css/2.0ba14847.chunk.css.map": "/mujymix/static/css/2.0ba14847.chunk.css.map",
     "static/css/main.2089ee12.chunk.css.map": "/mujymix/static/css/main.2089ee12.chunk.css.map",
-    "static/js/2.2d56be8d.chunk.js.LICENSE.txt": "/mujymix/static/js/2.2d56be8d.chunk.js.LICENSE.txt",
+    "static/js/2.0d2424bc.chunk.js.LICENSE.txt": "/mujymix/static/js/2.0d2424bc.chunk.js.LICENSE.txt",
     "static/media/cover.png": "/mujymix/static/media/cover.95e63451.png",
     "static/media/logohorizantal.c9a774ed.jpg": "/mujymix/static/media/logohorizantal.c9a774ed.jpg",
     "static/media/logovertical.0515c534.jpg": "/mujymix/static/media/logovertical.0515c534.jpg",
+    "static/media/styles.css": "/mujymix/static/media/revicons.e8746a62.woff",
+    "static/media/tel.e925b122.png": "/mujymix/static/media/tel.e925b122.png",
     "static/media/url.7318a804.png": "/mujymix/static/media/url.7318a804.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e97ea85d.js",
-    "static/js/2.2d56be8d.chunk.js",
+    "static/js/runtime-main.aaf7c6cc.js",
+    "static/css/2.0ba14847.chunk.css",
+    "static/js/2.0d2424bc.chunk.js",
     "static/css/main.2089ee12.chunk.css",
-    "static/js/main.06b67d39.chunk.js"
+    "static/js/main.406ec6b4.chunk.js"
   ]
 }
